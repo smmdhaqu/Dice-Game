@@ -1,4 +1,4 @@
-<h1> <a href="https://smmdhaqu.github.io/Dice-Game/">SimpleDiceGame</a></h1>
+<h1> <a href="https://smmdhaqu.github.io/Dice-Game/">DiceGame</a></h1>
 
 ### GAME RULES:
 
