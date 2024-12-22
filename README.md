@@ -1,4 +1,4 @@
-<h1> <a href="https://pkbagchi.github.io/SimpleDiceGame/SimpleDiceGame">SimpleDiceGame</a></h1>
+<h1> <a href="https://smmdhaqu.github.io/Dice-Game/">SimpleDiceGame</a></h1>
 
 ### GAME RULES:
 
@@ -11,6 +11,6 @@
 - The first player to reach default 100 points on GLOBAL score wins the game. (you can set the wining score(100), an input field is given.)
 
 ## Demo link
-A fully functional demo is available at (<a href="https://pkbagchi.github.io/SimpleDiceGame/SimpleDiceGame">Click Here</a>)
+A fully functional demo is available at (<a href="https://smmdhaqu.github.io/Dice-Game/">Click Here</a>)
 
 challenge-6 done(<a href="https://www.udemy.com/course/the-complete-javascript-course/">the complete javascript course</a>)
